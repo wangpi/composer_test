@@ -1,0 +1,21 @@
+{
+    "name": "wangping/composer_test",
+    "description": "这是测试",
+    "type": "l",
+    "require": {
+        "php": "^7.3"
+    },
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "王平",
+            "email": "18710227216@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Siam\\": "src/siam"
+        }
+    }
+}
