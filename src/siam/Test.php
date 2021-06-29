@@ -7,5 +7,4 @@ class Test
     {
         echo "Form Test -> test()";
     }
-    
 }
